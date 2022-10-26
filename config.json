@@ -1,0 +1,8 @@
+{
+    "token": "xxx",
+    "clientId": "1003708167470989342",
+    "guildId": "644672989014523940",
+    "defaultSuccessColor": "GREEN",
+    "defaultErrorColor": "RED",
+    "mongoURL": "xxx"
+}
